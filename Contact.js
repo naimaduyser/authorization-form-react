@@ -30,8 +30,8 @@ class Contact extends React.Component {
             ul >
             <
             li > client @example.com < /li> <
-            li > 555.555 .5555 < /li> <
-            /ul> <
+            li > 555.555 .5555 < /li> < /
+            ul > <
             /div>
         );
     }
